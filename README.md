@@ -1,4 +1,6 @@
 # News App for iOS
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+
 This is a news app for iOS devices that allows users to stay up-to-date with the latest news from various sources. This app is designed to provide a seamless user experience with easy navigation and a clean interface.
 
 # Features
